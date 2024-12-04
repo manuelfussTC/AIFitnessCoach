@@ -33,8 +33,8 @@ GymAI Coach is an interactive fitness assistant powered by advanced AI technolog
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gymai-coach.git
-cd gymai-coach
+git clone https://github.com/manuelfussTC/AIFitnessCoach.git
+cd AIFitnessCoach
 ```
 
 2. Install dependencies:
@@ -59,7 +59,7 @@ yarn dev
 ## Project Structure
 
 ```
-gymai-coach/
+AIFitnessCoach/
 ├── src/
 │   ├── components/         # React components
 │   ├── services/          # API services
@@ -174,16 +174,14 @@ yarn preview
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
-
-- OpenAI for providing the AI capabilities
-- React team for the awesome framework
-- Tailwind CSS team for the utility-first CSS framework
-- All contributors and users of the project
-
 ## Support
 
-For support, please open an issue in the GitHub repository or contact the maintainers.
+For support, please open an issue in the GitHub repository:
+[https://github.com/manuelfussTC/AIFitnessCoach/issues](https://github.com/manuelfussTC/AIFitnessCoach/issues)
+
+## Author
+
+Manuel Fuss ([GitHub](https://github.com/manuelfussTC))
 
 ---
 
